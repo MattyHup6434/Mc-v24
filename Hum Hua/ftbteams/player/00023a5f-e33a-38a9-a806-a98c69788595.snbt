@@ -1,0 +1,17 @@
+{
+	id: "00023a5f-e33a-38a9-a806-a98c69788595"
+	type: "player"
+	player_name: "idea"
+	ranks: {
+		00023a5f-e33a-38a9-a806-a98c69788595: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "idea"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

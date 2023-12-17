@@ -1,0 +1,17 @@
+{
+	id: "2e4d13e2-cc3a-331e-9627-92c879ddac0b"
+	type: "player"
+	player_name: "Naphonnnn"
+	ranks: {
+		2e4d13e2-cc3a-331e-9627-92c879ddac0b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Naphonnnn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

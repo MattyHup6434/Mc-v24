@@ -1,0 +1,17 @@
+{
+	id: "83736ac1-ec4e-3e55-acab-40fc03b64315"
+	type: "player"
+	player_name: "RunahLXIV"
+	ranks: {
+		83736ac1-ec4e-3e55-acab-40fc03b64315: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RunahLXIV"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8CFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

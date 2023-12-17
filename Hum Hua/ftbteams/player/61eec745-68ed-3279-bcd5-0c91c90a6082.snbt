@@ -1,0 +1,17 @@
+{
+	id: "61eec745-68ed-3279-bcd5-0c91c90a6082"
+	type: "player"
+	player_name: "Matty"
+	ranks: {
+		61eec745-68ed-3279-bcd5-0c91c90a6082: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Matty"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5960FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
