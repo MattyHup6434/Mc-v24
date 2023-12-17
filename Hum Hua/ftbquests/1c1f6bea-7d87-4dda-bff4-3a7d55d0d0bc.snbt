@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "1c1f6bea7d874ddabff43a7d55d0d0bc"
+	name: "Matty#1c1f6bea"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1702833202679L
+		2574E7CF699D5B45: 1702833202679L
+		0470194500CBE26C: 1702833202679L
+		0000000000000001: 1702833202679L
+	}
+	completed: {
+		2574E7CF699D5B45: 1702833202689L
+		0470194500CBE26C: 1702833202689L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

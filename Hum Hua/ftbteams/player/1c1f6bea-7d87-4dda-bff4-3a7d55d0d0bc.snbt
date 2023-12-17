@@ -1,0 +1,17 @@
+{
+	id: "1c1f6bea-7d87-4dda-bff4-3a7d55d0d0bc"
+	type: "player"
+	player_name: "Matty"
+	ranks: {
+		1c1f6bea-7d87-4dda-bff4-3a7d55d0d0bc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Matty"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

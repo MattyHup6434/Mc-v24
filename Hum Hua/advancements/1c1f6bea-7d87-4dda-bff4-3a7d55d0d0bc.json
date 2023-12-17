@@ -1,0 +1,1032 @@
+{
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_support": {
+    "criteria": {
+      "has_plank": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_quail_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-18 00:13:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/cake": {
+    "criteria": {
+      "has_quail_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "crabbersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_mahogany_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-12-18 00:13:36 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_magic_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/springshroom_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/trims": {
+    "criteria": {
+      "has_item": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_cherry": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_jacaranda_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "cuisinedelight:recipes/misc/plate_from_planks_stonecutting": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2023-12-18 00:22:28 +0700"
+    },
+    "done": false
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2023-12-18 00:13:36 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_palm_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/cherry_table": {
+    "criteria": {
+      "has_bamboo": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_redwood_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-12-18 00:13:36 +0700"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/glow_jelly_bottle": {
+    "criteria": {
+      "has_glow_berries": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/parquets": {
+    "criteria": {
+      "has_item": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_mosaic": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/cherry_seat": {
+    "criteria": {
+      "has_plank": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_hellbark_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_quail_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/lattices": {
+    "criteria": {
+      "has_item": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-12-18 00:22:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/sanded_wood": {
+    "criteria": {
+      "has_item": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-12-18 00:13:36 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsprout_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_willow_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_umbran_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2023-12-18 00:26:31 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_dead_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-12-18 00:17:55 +0700",
+      "minecraft:taiga": "2023-12-18 00:17:12 +0700",
+      "minecraft:dripstone_caves": "2023-12-18 00:18:20 +0700",
+      "minecraft:meadow": "2023-12-18 00:13:40 +0700"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/biomesoplenty/from_fir_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2023-12-18 00:13:22 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2023-12-18 00:25:11 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
